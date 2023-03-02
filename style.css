@@ -1,0 +1,74 @@
+body {
+  font-family: "Segoe UI";
+}
+
+.container {
+  width: 1300px;
+  height: 608px;
+  background: #000;
+  position: relative;
+}
+
+.square {
+  width: 70px;
+  height: 70px;
+  background: #fff;
+  border: 2px solid #000;
+  font-size: 50px;
+  text-align: center;
+}
+
+#one {
+  position: absolute;
+  top: 199px;
+  left: 545px;
+}
+
+#two {
+  position: absolute;
+  top: 199px;
+  left: 615px;
+}
+
+#three {
+  position: absolute;
+  top: 199px;
+  right: 545px;
+}
+
+#four {
+  position: absolute;
+  top: 269px;
+  left: 545px;
+}
+
+#five {
+  position: absolute;
+  top: 269px;
+  right: 615px;
+  width: 66px;
+}
+
+#six {
+  position: absolute;
+  top: 269px;
+  right: 545px;
+}
+
+#seven {
+  position: absolute;
+  bottom: 199px;
+  left: 545px;
+}
+
+#eight {
+  position: absolute;
+  bottom: 199px;
+  left: 615px;
+}
+
+#nine {
+  position: absolute;
+  bottom: 199px;
+  right: 545px;
+}
